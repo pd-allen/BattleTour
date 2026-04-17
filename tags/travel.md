@@ -1,11 +1,11 @@
 ---
-title: Tutorial
-description: Posts tagged with Tutorial.
+title: Travel
+description: Posts about travel.
 ---
 
-# Tutorial
+# Travel
 
-Posts tagged with **Tutorial**.
+Posts tagged with **Travel**.
 
 ## Posts
 

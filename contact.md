@@ -7,7 +7,7 @@ description: Get in touch.
 
 ## Email
 
-[jane.doe@example.com](mailto:jane.doe@example.com)
+[pd-allen@rogers.com](mailto:pd-allen@rogers.com)
 
 ## Connect
 

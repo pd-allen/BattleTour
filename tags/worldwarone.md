@@ -1,11 +1,11 @@
 ---
-title: GitHub Pages
-description: Posts tagged with GitHub Pages.
+title: World War One
+description: Posts concerning WWI.
 ---
 
-# GitHub Pages
+# WWI
 
-Posts tagged with **GitHub Pages**.
+Posts tagged with **WWI**.
 
 ## Posts
 
@@ -17,4 +17,7 @@ Posts tagged with **GitHub Pages**.
 April 10, 2026 - A step-by-step tutorial on building a personal CV website with MyST Markdown and Typst that automatically generates a PDF version of your CV.
 :::
 
-::::
+:::{card} Story of the Goodfellow Brothers.
+:link: /posts/GoodfellowBrothers
+:header: ![thumbnail](../posts/assets/Goodfellow_Brothers/media/image1.png)
+April 10, 2026 - The story of Annie Goodfellow's cousins
