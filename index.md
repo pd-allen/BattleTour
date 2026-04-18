@@ -1,13 +1,10 @@
 ---
-title: My Blog
-subtitle: Thoughts on data science, open-source software, and teaching.
-description: A blog about data science, open-source software, and teaching, powered by MyST Markdown.
+title: My Battlefield Tour Blog
+subtitle: Blog on my travels through WWI and WWII battlefields
+description: A blog about my journey through mostly Canadian Battlefields
 ---
 
-# My Blog
-
-## Subscribe
-
+# My Battlefield Tour Blog
 - [RSS feed](/rss.xml) (or [Atom](/atom.xml))
 - [LinkedIn](https://www.linkedin.com/in/username)
 
