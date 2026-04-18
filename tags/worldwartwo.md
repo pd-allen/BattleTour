@@ -47,11 +47,6 @@ Research and details regarding ClearingtheChannelPorts.
 Research and details regarding DunkirkandtheAtlanticWall.
 :::
 
-::: {card} Goodfellow Brothers
-:link: /posts/Goodfellow_Brothers
-:header: <img src="../posts/assets/Goodfellow_Brothers/media/image1.png" alt="thumbnail" />
-Research and details regarding Goodfellow Brothers.
-:::
 
 ::: {card} JamesLoterbaugh774Bttn
 :link: /posts/JamesLoterbaugh774Bttn
@@ -75,18 +70,6 @@ Research and details regarding LiberatonoftheNetherlands.
 :link: /posts/ServiceRecordNormKightley
 :header: <img src="../posts/assets/ServiceRecordNormKightley/media/image1.jpg" alt="thumbnail" />
 Research and details regarding ServiceRecordNormKightley.
-:::
-
-::: {card} WallacePike
-:link: /posts/WallacePike
-:header: <img src="../posts/assets/WallacePike/media/image1.png" alt="thumbnail" />
-Research and details regarding WallacePike.
-:::
-
-::: {card} WilliamSullivan
-:link: /posts/WilliamSullivan
-:header: <img src="../posts/assets/WilliamSullivan/media/image1.jpeg" alt="thumbnail" />
-Research and details regarding WilliamSullivan.
 :::
 
 ::::
