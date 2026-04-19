@@ -23,16 +23,16 @@ April 10, 2026 - A step-by-step tutorial on building a personal CV website with 
 April 10, 2026 - The story of Annie Goodfellow's cousins
 :::
 
-::: {card} WallacePike
-:link: /posts/WallacePike
-:header: <img src="../posts/assets/WallacePike/media/image1.png" alt="thumbnail" />
-Research and details regarding WallacePike.
+::: {card} Wallace Pike
+:link: /posts/Wallace-Pike-Royal-Newfoundland-Regiment
+:header: <img src="../posts/assets/Wallace-Pike-Royal-Newfoundland-Regiment/media/image1.png" alt="thumbnail" />
+Research and details regarding Wallace Pike.
 :::
 
-::: {card} WilliamSullivan
-:link: /posts/WilliamSullivan
-:header: <img src="../posts/assets/WilliamSullivan/media/image1.jpeg" alt="thumbnail" />
-Research and details regarding WilliamSullivan.
+::: {card} William Sullivan
+:link: /posts/William-Sullivan-Royal-Newfoundland-Regiment
+:header: <img src="../posts/assets/William-Sullivan-Royal-Newfoundland-Regiment/media/image1.jpeg" alt="thumbnail" />
+Research and details regarding William Sullivan.
 :::
 
 

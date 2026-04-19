@@ -9,18 +9,12 @@ Posts tagged with **WW2**.
 
 ## Posts
 
-::::{grid} 1 1 1 1
+::::{grid} 1 1 2 2
 
-:::{card} Write Journal Articles with MyST Markdown: Auto-Generate PDFs and Websites
-:link: /posts/myst-article-template
-:header: ![thumbnail](https://img.youtube.com/vi/iwL-s7aPNYQ/maxresdefault.jpg)
-April 15, 2026 - A step-by-step tutorial on writing journal articles in MyST Markdown with automatic PDF generation and website deployment using a GitHub template.
-:::
-
-::: {card} BattleoftheScheldt
-:link: /posts/BattleoftheScheldt
-:header: <img src="../posts/assets/BattleoftheScheldt/media/image1.gif" alt="thumbnail" />
-Research and details regarding BattleoftheScheldt.
+::: {card} Battle of the Scheldt
+:link: /posts/Battle-of-the-Scheldt
+:header: <img src="../posts/assets/Battle-of-the-Scheldt/media/image1.gif" alt="thumbnail" />
+Research and details regarding Battle of the Scheldt.
 :::
 
 ::: {card} Canadian Liberation March
@@ -35,42 +29,52 @@ Research and details regarding Canadian Liberation March.
 Research and details regarding CanadianMemorialsintheNetherlands.
 :::
 
-::: {card} ClearingtheChannelPorts
-:link: /posts/ClearingtheChannelPorts
-:header: <img src="../posts/assets/ClearingtheChannelPorts/media/image1.jpg" alt="thumbnail" />
-Research and details regarding ClearingtheChannelPorts.
+::: {card} Clearing the Channel Ports
+:link: /posts/Clearing-the-Channel-Ports
+:header: <img src="../posts/assets/Clearing-the-Channel-Ports/media/image1.jpg" alt="thumbnail" />
+Research and details regarding Clearing the Channel Ports.
 :::
 
-::: {card} DunkirkandtheAtlanticWall
-:link: /posts/DunkirkandtheAtlanticWall
-:header: <img src="../posts/assets/DunkirkandtheAtlanticWall/media/image1.png" alt="thumbnail" />
-Research and details regarding DunkirkandtheAtlanticWall.
+::: {card} Dunkirk and the Atlantic Wall
+:link: /posts/Dunkirk-and-the-Atlantic-Wall
+:header: <img src="../posts/assets/Dunkirk-and-the-Atlantic-Wall/media/image1.png" alt="thumbnail" />
+Research and details regarding Dunkirk and the Atlantic Wall.
 :::
 
-
-::: {card} JamesLoterbaugh774Bttn
-:link: /posts/JamesLoterbaugh774Bttn
-:header: <img src="../posts/assets/JamesLoterbaugh774Bttn/media/image1.png" alt="thumbnail" />
-Research and details regarding JamesLoterbaugh774Bttn.
+::: {card} Goodfellow Brothers
+:link: /posts/Goodfellow-Brothers
+:header: <img src="../posts/assets/Goodfellow-Brothers/media/image1.png" alt="thumbnail" />
+Research and details regarding Goodfellow Brothers.
 :::
 
-::: {card} LiberationMarch2025
-:link: /posts/LiberationMarch2025
-:header: <img src="../posts/assets/LiberationMarch2025/media/image1.png" alt="thumbnail" />
-Research and details regarding LiberationMarch2025.
+::: {card} James Loterbaugh 774Bttn
+:link: /posts/James-Loterbaugh-774Bttn
+:header: <img src="../posts/assets/James-Loterbaugh-774Bttn/media/image1.png" alt="thumbnail" />
+Research and details regarding James Loterbaugh 774Bttn.
 :::
 
-::: {card} LiberatonoftheNetherlands
-:link: /posts/LiberatonoftheNetherlands
-:header: <img src="../posts/assets/LiberatonoftheNetherlands/media/image1.png" alt="thumbnail" />
-Research and details regarding LiberatonoftheNetherlands.
+::: {card} Liberation March November 2025
+:link: /posts/Liberation-March-November-2025
+:header: <img src="../posts/assets/Liberation-March-November-2025/media/image1.png" alt="thumbnail" />
+Research and details regarding Liberation March November 2025.
 :::
 
-::: {card} ServiceRecordNormKightley
-:link: /posts/ServiceRecordNormKightley
-:header: <img src="../posts/assets/ServiceRecordNormKightley/media/image1.jpg" alt="thumbnail" />
-Research and details regarding ServiceRecordNormKightley.
+::: {card} Liberaton of the Netherlands
+:link: /posts/Liberaton-of-the-Netherlands
+:header: <img src="../posts/assets/Liberaton-of-the-Netherlands/media/image1.png" alt="thumbnail" />
+Research and details regarding Liberaton of the Netherlands.
+:::
+
+::: {card} Wallace Pike Royal Newfoundland Regiment
+:link: /posts/Wallace-Pike-Royal-Newfoundland-Regiment
+:header: <img src="../posts/assets/Wallace-Pike-Royal-Newfoundland-Regiment/media/image1.png" alt="thumbnail" />
+Research and details regarding Wallace Pike Royal Newfoundland Regiment.
+:::
+
+::: {card} William Sullivan Royal Newfoundland Regiment
+:link: /posts/William-Sullivan-Royal-Newfoundland-Regiment
+:header: <img src="../posts/assets/William-Sullivan-Royal-Newfoundland-Regiment/media/image1.jpeg" alt="thumbnail" />
+Research and details regarding William Sullivan Royal Newfoundland Regiment.
 :::
 
 ::::
-

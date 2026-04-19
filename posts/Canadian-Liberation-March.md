@@ -1,6 +1,6 @@
 # Canadian Liberation March
 
-# Canadian Liberation March
+# Canadian Liberation March – November 2024
 
 This year was the 80<sup>th</sup> Anniversary of the Liberation of
 Belgium and the Netherlands and the 50<sup>th</sup> Anniversary of the
