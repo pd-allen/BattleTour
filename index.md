@@ -69,7 +69,7 @@ Canadian Memorials in the Netherlands
 Clearing the Channel Ports
 :::
 
-::: {card} DunkirkandtheAtlanticW
+::: {card}
 :link: /posts/DunkirkandtheAtlanticWall 
 Dunkirk and the Atlantic Wall
 :::
