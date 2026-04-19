@@ -1,6 +1,6 @@
 # William Sullivan Royal Newfoundland Regiment
 
-# <img
+ <img
 src="assets/William-Sullivan-Royal-Newfoundland-Regiment/media/image1.jpeg"
 style="width:4.07245in;height:6.54717in"
 alt="A close-up of a person in a uniform Description automatically generated" />
