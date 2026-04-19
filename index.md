@@ -59,36 +59,43 @@ Posts tagged with **WW2**.
 Canadian Liberation March
 :::
 
-::: {card} CanadianMemorialsintheNetherlands
+::: {card} 
 :link: /posts/CanadianMemorialsintheNetherlands
+Canadian Memorials in the Netherlands
 :::
 
-::: {card} ClearingtheChannelPorts
+::: {card} 
 :link: /posts/ClearingtheChannelPorts
+Clearing the Channel Ports
 :::
 
-::: {card} DunkirkandtheAtlanticWall
-:link: /posts/DunkirkandtheAtlanticWall
+::: {card} DunkirkandtheAtlanticW
+:link: /posts/DunkirkandtheAtlanticWall 
+Dunkirk and the Atlantic Wall
 :::
 
 
-::: {card} JamesLoterbaugh774Bttn
+::: {card} 
 :link: /posts/JamesLoterbaugh774Bttn
+James Loterbaugh 774Bttn
 
 :::
 
-::: {card} LiberationMarch2025
+::: {card} 
 :link: /posts/LiberationMarch2025
+Liberation March November 2025
 
 :::
 
-::: {card} LiberatonoftheNetherlands
+::: {card} 
 :link: /posts/LiberatonoftheNetherlands
+Liberaton of the Netherlands
 
 :::
 
-::: {card} ServiceRecordNormKightley
+::: {card}
 :link: /posts/ServiceRecordNormKightley
+Service Record Norm Kightley
 
 :::
 
