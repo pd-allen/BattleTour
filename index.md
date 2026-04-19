@@ -29,7 +29,7 @@ Posts tagged with **WWII**
 ## Posts
 - [Battle of the Scheldt](/posts/Battle-of-the-Scheldt)
 - [Canadian Liberation March](/posts/Canadian-Liberation-March)
-- [CanadianMemorialsintheNetherlands](/posts/CanadianMemorialsintheNetherlands)
+- [Canadian Memorials in the Netherlands](/posts/Canadian-Memorials-in-the-Netherlands)
 - [Clearing the Channel Ports](/posts/Clearing-the-Channel-Ports)
 - [Dunkirk and the Atlantic Wall](/posts/Dunkirk-and-the-Atlantic-Wall)
 - [Service Record Norm Kightley](/posts/Service-Record-Norm-Kightley)

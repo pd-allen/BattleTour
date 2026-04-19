@@ -41,12 +41,6 @@ Research and details regarding Clearing the Channel Ports.
 Research and details regarding Dunkirk and the Atlantic Wall.
 :::
 
-::: {card} Goodfellow Brothers
-:link: /posts/Goodfellow-Brothers
-:header: <img src="../posts/assets/Goodfellow-Brothers/media/image1.png" alt="thumbnail" />
-Research and details regarding Goodfellow Brothers.
-:::
-
 ::: {card} James Loterbaugh 774Bttn
 :link: /posts/James-Loterbaugh-774Bttn
 :header: <img src="../posts/assets/James-Loterbaugh-774Bttn/media/image1.png" alt="thumbnail" />
@@ -65,16 +59,5 @@ Research and details regarding Liberation March November 2025.
 Research and details regarding Liberaton of the Netherlands.
 :::
 
-::: {card} Wallace Pike Royal Newfoundland Regiment
-:link: /posts/Wallace-Pike-Royal-Newfoundland-Regiment
-:header: <img src="../posts/assets/Wallace-Pike-Royal-Newfoundland-Regiment/media/image1.png" alt="thumbnail" />
-Research and details regarding Wallace Pike Royal Newfoundland Regiment.
-:::
-
-::: {card} William Sullivan Royal Newfoundland Regiment
-:link: /posts/William-Sullivan-Royal-Newfoundland-Regiment
-:header: <img src="../posts/assets/William-Sullivan-Royal-Newfoundland-Regiment/media/image1.jpeg" alt="thumbnail" />
-Research and details regarding William Sullivan Royal Newfoundland Regiment.
-:::
-
+:
 ::::
