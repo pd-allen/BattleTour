@@ -1,10 +1,10 @@
 ---
-title: My Blog
-subtitle: Thoughts on data science, open-source software, and teaching.
-description: A blog about data science, open-source software, and teaching, powered by MyST Markdown.
+title: My Battlefield Tour Blog
+subtitle: My travels through the First and Second World War Battlefields.
+description: A blog about family and friends experiences in the two wars.
 ---
 
-# My Blog
+# My Battlefield Tour Blog
 
 ## Subscribe
 
@@ -13,35 +13,84 @@ description: A blog about data science, open-source software, and teaching, powe
 
 ---
 
+# WWI
+
+Posts tagged with **WWI**.
+
 ## Posts
 
-### 2026
+::::{grid} 1
 
-::::{grid} 1 1 2 2
-
-:::{card} Write Journal Articles with MyST Markdown: Auto-Generate PDFs and Websites
-:link: /posts/myst-article-template
-:header: ![thumbnail](https://img.youtube.com/vi/iwL-s7aPNYQ/maxresdefault.jpg)
-April 15, 2026 - A step-by-step tutorial on writing journal articles in MyST Markdown with automatic PDF generation and website deployment using a GitHub template.
+:::{card} 
+:link: /posts/GoodfellowBrothers
+Story of the Goodfellow Brothers.
 :::
 
-:::{card} Build a Professional CV Website with Auto PDF Generation Using MyST Markdown
-:link: /posts/myst-cv-website
-:header: ![thumbnail](https://img.youtube.com/vi/KiceHVININs/maxresdefault.jpg)
-April 10, 2026 - A step-by-step tutorial on building a personal CV website with MyST Markdown and Typst that automatically generates a PDF version of your CV.
+::: {card}
+:link: /posts/WallacePike
+Wallace Pike
+:::
+
+::: {card} 
+:link: /posts/WilliamSullivan
+William Sullivan
+:::
+
+
+::::
+
+# WW2
+
+Posts tagged with **WW2**.
+
+## Posts
+
+::::{grid} 1 
+
+
+
+::: {card}
+:link: /posts/BattleoftheScheldt
+ Battle of the Scheldt
+:::
+
+::: {card} 
+:link: /posts/Canadian-Liberation-March
+Canadian Liberation March
+:::
+
+::: {card} CanadianMemorialsintheNetherlands
+:link: /posts/CanadianMemorialsintheNetherlands
+:::
+
+::: {card} ClearingtheChannelPorts
+:link: /posts/ClearingtheChannelPorts
+:::
+
+::: {card} DunkirkandtheAtlanticWall
+:link: /posts/DunkirkandtheAtlanticWall
+:::
+
+
+::: {card} JamesLoterbaugh774Bttn
+:link: /posts/JamesLoterbaugh774Bttn
+
+:::
+
+::: {card} LiberationMarch2025
+:link: /posts/LiberationMarch2025
+
+:::
+
+::: {card} LiberatonoftheNetherlands
+:link: /posts/LiberatonoftheNetherlands
+
+:::
+
+::: {card} ServiceRecordNormKightley
+:link: /posts/ServiceRecordNormKightley
+
 :::
 
 ::::
 
-
-### 2025
-
-::::{grid} 1 1 2 2
-
-:::{card} A Reusable Template for Building Websites with MyST Markdown
-:link: /posts/myst-website-template
-:header: ![thumbnail](https://img.youtube.com/vi/wj0kAthmusA/maxresdefault.jpg)
-April 7, 2026 - A GitHub template that bundles MyST Markdown, GitHub Pages deployment, Netlify PR previews, and pre-commit hooks into a ready-to-use starting point.
-:::
-
-::::
