@@ -49,207 +49,71 @@ alt="A person and person in military uniforms Description automatically generate
 <img src="assets/Service-Record-Norm-Kightley/media/image3.jpeg"
 style="width:6.5in;height:3.24514in" />
 
-<table>
-<colgroup>
-<col style="width: 50%" >
-<col style="width: 50%" >
-</colgroup>
-<thead>
-<tr>
-<th colspan="2" style="text-align: center;"><strong>Service
-History</strong></th>
-</tr>
-<tr>
-<th><strong>Date</strong></th>
-<th><strong>Activity</strong></th>
-</tr>
-<tr>
-<th><strong>08 Jul 1940</strong></th>
-<th>Enlisted at Camp Borden, Canadian Armoured Fighting Vehicle Training
-Centre (CAFVTC)</th>
-</tr>
-<tr>
-<th><strong>16 Oct 1940</strong></th>
-<th>Qualified Driver Class III Wheeled Vehicles</th>
-</tr>
-<tr>
-<th><strong>24 Oct 1940</strong></th>
-<th>Posted to Ont Tank Regiment</th>
-</tr>
-<tr>
-<th><strong>16 Dec 1940</strong></th>
-<th>Posted to Headquarters Squadron 1/Canadian Armoured Brigade</th>
-</tr>
-<tr>
-<th><strong>02 Apr 1941</strong></th>
-<th>Married Marjorie Johnston in North Bay, ON</th>
-</tr>
-<tr>
-<th><strong>21 Aug 1941</strong></th>
-<th>Qualified as Driver IC with Class II</th>
-</tr>
-<tr>
-<th><strong>07 Nov 1941</strong></th>
-<th>Promoted to Acting Lance Corporal without Pay</th>
-</tr>
-<tr>
-<th><strong>10 Nov 1941</strong></th>
-<th>Taken on Strength Canadian (Overseas) on Embarkation</th>
-</tr>
-<tr>
-<th><strong>24 Nov 1941</strong></th>
-<th>Disembarked UK</th>
-</tr>
-<tr>
-<th><strong>04 Mar 1942</strong></th>
-<th>Promoted to Lance Corporal</th>
-</tr>
-<tr>
-<th><strong>13 Mar 1942</strong></th>
-<th>Attended Driver and Maintenance Course at 61 Training Regiment Royal
-Armoured Corps at Tidworth, Wiltshire</th>
-</tr>
-<tr>
-<th><strong>01 Apr 1942</strong></th>
-<th>Qualified as Driver Mechanic Group C</th>
-</tr>
-<tr>
-<th><strong>01 Jun 1942</strong></th>
-<th>Transferred to Prince Edward Island Light Horse (PEILH)</th>
-</tr>
-<tr>
-<th><strong>28 Sep 1942</strong></th>
-<th>Promoted to Acting Corporal</th>
-</tr>
-<tr>
-<th><strong>03 Oct 1942</strong></th>
-<th>Attended Gunnery (Instructors) Course, Serial #1, at 3 Canadian
-Armoured Corps Replacement Unit (CACRU}</th>
-</tr>
-<tr>
-<th><strong>23 Dec 1942</strong></th>
-<th>Completed Gunnery Course Qual Crse</th>
-</tr>
-<tr>
-<th><strong>24 Dec 1942</strong></th>
-<th>TOS HQ 1<sup>st</sup> Canadian Armoured Brigade</th>
-</tr>
-<tr>
-<th><strong>07 Jan 1943</strong></th>
-<th>Confirmed as Corporal</th>
-</tr>
-<tr>
-<th><strong>18 Feb 1943</strong></th>
-<th>TOS 5th Armoured Regt (Driver Mechanical C)</th>
-</tr>
-<tr>
-<th><strong>18 Feb 1943</strong></th>
-<th>TOS 8<sup>th</sup> New Brunswick Hussars</th>
-</tr>
-<tr>
-<th><strong>19 Feb 1943</strong></th>
-<th>Reverts to Trooper at own request</th>
-</tr>
-<tr>
-<th><strong>15 Apr 1943</strong></th>
-<th>Reappointed to A/LCpl</th>
-</tr>
-<tr>
-<th><strong>11 May 1943</strong></th>
-<th>Appointed A/CPL</th>
-</tr>
-<tr>
-<th><strong>16 Jul 1943</strong></th>
-<th>Remustered to Driver Mechanical Technician C</th>
-</tr>
-<tr>
-<th><strong>11 Aug 1943</strong></th>
-<th>Confirmed as Cpl</th>
-</tr>
-<tr>
-<th><strong>15 Nov 1943</strong></th>
-<th>Embark from UK</th>
-</tr>
-<tr>
-<th><strong>27 Nov 1943</strong></th>
-<th>Disembark in Algeria</th>
-</tr>
-<tr>
-<th><strong>27 Nov 1943</strong></th>
-<th>To Hospital</th>
-</tr>
-<tr>
-<th><strong>10 Dec 1943</strong></th>
-<th>Released from Hospital</th>
-</tr>
-<tr>
-<th><strong>15 Dec 1943</strong></th>
-<th>Sailed to Naples</th>
-</tr>
-<tr>
-<th><strong>23 Dec 1943</strong></th>
-<th>Sailed to Bari (8<sup>th</sup> Army Port)</th>
-</tr>
-<tr>
-<th><strong>24 Dec 1943</strong></th>
-<th>Moved to Matera, Italy awaiting delivery of M4A4 Sherman Tanks</th>
-</tr>
-<tr>
-<th><strong>10 Jan 1944</strong></th>
-<th>Awarded Clasp to Cdn Volunteer Svc Medal</th>
-</tr>
-<tr>
-<th><strong>27 Jan 1944</strong></th>
-<th>Left Matera, heading to Ortona</th>
-</tr>
-<tr>
-<th><strong>03 Jun 1944</strong></th>
-<th>Appointed to A/Lance Sgt</th>
-</tr>
-<tr>
-<th><strong>10 Jun 1944</strong></th>
-<th>Confirmed as Lance Sgt</th>
-</tr>
-<tr>
-<th><strong>31 Jul 1944</strong></th>
-<th>Vacates trade of Dvr Mech Tk C, becomes L/Sgt (Non-Trades)</th>
-</tr>
-<tr>
-<th><strong>12 Aug 1944</strong></th>
-<th>Promoted to Acting Sgt. Became Tank Commander</th>
-</tr>
-<tr>
-<th><strong>12 Nov 1944</strong></th>
-<th>Confirmed in Rank of Sgt.</th>
-</tr>
-<tr>
-<th><strong>18 Feb 1945</strong></th>
-<th>Embarked from Italy</th>
-</tr>
-<tr>
-<th><strong>20 Feb 1945</strong></th>
-<th>Disembarked France</th>
-</tr>
-<tr>
-<th><strong>13 Jul 1945</strong></th>
-<th>TOS CD-MD 2 193 Cdn Draft to be returned to Canada</th>
-</tr>
-<tr>
-<th><strong>08 Aug 1945</strong></th>
-<th>SOS Canadian Army Overseas</th>
-</tr>
-<tr>
-<th><strong>18 Aug 1945</strong></th>
-<th>Disembarkation Leave (4 wks)</th>
-</tr>
-<tr>
-<th><strong>29 Sep 1945</strong></th>
-<th>Discharge</th>
-</tr>
-</thead>
-<tbody>
-</tbody>
+<table style="width:100%">
+  <colgroup>
+    <col style="width: 40%">
+    <col style="width: 60%">
+  </colgroup>
+
+  <thead>
+    <tr>
+      <th colspan="2" style="text-align:center;"><strong>Service History</strong></th>
+    </tr>
+    <tr>
+      <th><strong>Date</strong></th>
+      <th><strong>Activity</strong></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr><td><strong>08 Jul 1940</strong></td><td>Enlisted at Camp Borden, Canadian Armoured Fighting Vehicle Training Centre (CAFVTC)</td></tr>
+    <tr><td><strong>16 Oct 1940</strong></td><td>Qualified Driver Class III Wheeled Vehicles</td></tr>
+    <tr><td><strong>24 Oct 1940</strong></td><td>Posted to Ont Tank Regiment</td></tr>
+    <tr><td><strong>16 Dec 1940</strong></td><td>Posted to Headquarters Squadron 1/Canadian Armoured Brigade</td></tr>
+    <tr><td><strong>02 Apr 1941</strong></td><td>Married Marjorie Johnston in North Bay, ON</td></tr>
+    <tr><td><strong>21 Aug 1941</strong></td><td>Qualified as Driver IC with Class II</td></tr>
+    <tr><td><strong>07 Nov 1941</strong></td><td>Promoted to Acting Lance Corporal without Pay</td></tr>
+    <tr><td><strong>10 Nov 1941</strong></td><td>Taken on Strength Canadian (Overseas) on Embarkation</td></tr>
+    <tr><td><strong>24 Nov 1941</strong></td><td>Disembarked UK</td></tr>
+    <tr><td><strong>04 Mar 1942</strong></td><td>Promoted to Lance Corporal</td></tr>
+    <tr><td><strong>13 Mar 1942</strong></td><td>Attended Driver and Maintenance Course at 61 Training Regiment Royal Armoured Corps at Tidworth, Wiltshire</td></tr>
+    <tr><td><strong>01 Apr 1942</strong></td><td>Qualified as Driver Mechanic Group C</td></tr>
+    <tr><td><strong>01 Jun 1942</strong></td><td>Transferred to Prince Edward Island Light Horse (PEILH)</td></tr>
+    <tr><td><strong>28 Sep 1942</strong></td><td>Promoted to Acting Corporal</td></tr>
+    <tr><td><strong>03 Oct 1942</strong></td><td>Attended Gunnery (Instructors) Course, Serial #1, at 3 Canadian Armoured Corps Replacement Unit (CACRU)</td></tr>
+    <tr><td><strong>23 Dec 1942</strong></td><td>Completed Gunnery Course Qual Crse</td></tr>
+    <tr><td><strong>24 Dec 1942</strong></td><td>TOS HQ 1st Canadian Armoured Brigade</td></tr>
+    <tr><td><strong>07 Jan 1943</strong></td><td>Confirmed as Corporal</td></tr>
+    <tr><td><strong>18 Feb 1943</strong></td><td>TOS 5th Armoured Regt (Driver Mechanical C)</td></tr>
+    <tr><td><strong>18 Feb 1943</strong></td><td>TOS 8th New Brunswick Hussars</td></tr>
+    <tr><td><strong>19 Feb 1943</strong></td><td>Reverts to Trooper at own request</td></tr>
+    <tr><td><strong>15 Apr 1943</strong></td><td>Reappointed to A/LCpl</td></tr>
+    <tr><td><strong>11 May 1943</strong></td><td>Appointed A/CPL</td></tr>
+    <tr><td><strong>16 Jul 1943</strong></td><td>Remustered to Driver Mechanical Technician C</td></tr>
+    <tr><td><strong>11 Aug 1943</strong></td><td>Confirmed as Cpl</td></tr>
+    <tr><td><strong>15 Nov 1943</strong></td><td>Embark from UK</td></tr>
+    <tr><td><strong>27 Nov 1943</strong></td><td>Disembark in Algeria</td></tr>
+    <tr><td><strong>27 Nov 1943</strong></td><td>To Hospital</td></tr>
+    <tr><td><strong>10 Dec 1943</strong></td><td>Released from Hospital</td></tr>
+    <tr><td><strong>15 Dec 1943</strong></td><td>Sailed to Naples</td></tr>
+    <tr><td><strong>23 Dec 1943</strong></td><td>Sailed to Bari (8th Army Port)</td></tr>
+    <tr><td><strong>24 Dec 1943</strong></td><td>Moved to Matera, Italy awaiting delivery of M4A4 Sherman Tanks</td></tr>
+    <tr><td><strong>10 Jan 1944</strong></td><td>Awarded Clasp to Cdn Volunteer Svc Medal</td></tr>
+    <tr><td><strong>27 Jan 1944</strong></td><td>Left Matera, heading to Ortona</td></tr>
+    <tr><td><strong>03 Jun 1944</strong></td><td>Appointed to A/Lance Sgt</td></tr>
+    <tr><td><strong>10 Jun 1944</strong></td><td>Confirmed as Lance Sgt</td></tr>
+    <tr><td><strong>31 Jul 1944</strong></td><td>Vacates trade of Dvr Mech Tk C, becomes L/Sgt (Non-Trades)</td></tr>
+    <tr><td><strong>12 Aug 1944</strong></td><td>Promoted to Acting Sgt. Became Tank Commander</td></tr>
+    <tr><td><strong>12 Nov 1944</strong></td><td>Confirmed in Rank of Sgt.</td></tr>
+    <tr><td><strong>18 Feb 1945</strong></td><td>Embarked from Italy</td></tr>
+    <tr><td><strong>20 Feb 1945</strong></td><td>Disembarked France</td></tr>
+    <tr><td><strong>13 Jul 1945</strong></td><td>TOS CD-MD 2 193 Cdn Draft to be returned to Canada</td></tr>
+    <tr><td><strong>08 Aug 1945</strong></td><td>SOS Canadian Army Overseas</td></tr>
+    <tr><td><strong>18 Aug 1945</strong></td><td>Disembarkation Leave (4 wks)</td></tr>
+    <tr><td><strong>29 Sep 1945</strong></td><td>Discharge</td></tr>
+  </tbody>
 </table>
+
 
 ## Enlistment
 
