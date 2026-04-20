@@ -50,12 +50,15 @@ alt="A person and person in military uniforms Description automatically generate
 style="width:6.5in;height:3.24514in" />
 
 <style>
-  /* Prevent date column from wrapping */
+  .service-table {
+    table-layout: fixed;
+  }
   .service-table td:first-child,
   .service-table th:first-child {
     white-space: nowrap !important;
   }
 </style>
+
 
 <table class="service-table" style="width:100%">
   <colgroup>
