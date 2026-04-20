@@ -51,7 +51,7 @@ style="width:6.5in;height:3.24514in" />
 
 <table style="width:100%">
   <colgroup>
-    <col style="width: 40%">
+    <col style="width: 40% white-space: nowrap;">
     <col style="width: 60%">
   </colgroup>
 
