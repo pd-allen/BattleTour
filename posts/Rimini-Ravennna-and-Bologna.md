@@ -490,9 +490,12 @@ over time. Historically seven, today four main churches remain, but the
 name persists because of the symbolic and architectural unity of the
 site.
 
+<img src="assets/Rimini-Ravennna-and-Bologna/media/image55.png"
+style="width:6.5in;height:3.65833in" />
+
 The walking map shows how the churches are linked together.
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image55.png"
+<img src="assets/Rimini-Ravennna-and-Bologna/media/image56.png"
 style="width:6.5in;height:7.86597in" />
 
 The complex began in the **5th century**, when **Bishop Petronius**
@@ -507,7 +510,7 @@ buildings.
 
 ## The main components of the Santo Stefano complex
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image56.png"
+<img src="assets/Rimini-Ravennna-and-Bologna/media/image57.png"
 style="width:6.5in;height:4.52917in" />
 
 Below is an overview of the principal structures within the collection:
@@ -543,20 +546,20 @@ Below is an overview of the principal structures within the collection:
 
 **Chiesa del Crocifisso (Church of the Crucifix)**
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image57.jpeg"
+<img src="assets/Rimini-Ravennna-and-Bologna/media/image58.jpeg"
 style="width:6.5in;height:4.89444in" />
 
 **Chiesa del Santo Sepolcro (Church of the Holy Sepulchre)**
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image58.jpeg"
+<img src="assets/Rimini-Ravennna-and-Bologna/media/image59.jpeg"
 style="width:6.5in;height:6.05069in" />
 
 Basilica of San Stefano
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image59.jpeg"
+<img src="assets/Rimini-Ravennna-and-Bologna/media/image60.jpeg"
 style="width:6.5in;height:8.63264in" />
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image60.jpeg"
+<img src="assets/Rimini-Ravennna-and-Bologna/media/image61.jpeg"
 style="width:6.5in;height:8.63264in" />
 
 # Final Thoughts
@@ -568,7 +571,7 @@ fish, is very thin so it was an adventure digging out the meat from the
 many, many bones. I enjoyed a lot of seafood in many forms, but this was
 the most unique.
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image61.jpeg"
+<img src="assets/Rimini-Ravennna-and-Bologna/media/image62.jpeg"
 style="width:6.5in;height:8.66667in" />
 
 It was a great trip to Italy. The food was wonderful everywhere we ate
