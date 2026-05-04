@@ -11,6 +11,13 @@ Posts tagged with **WW2**.
 
 ::::{grid} 1 1 2 2
 
+
+::: {card} The River Battles   Italy
+:link: /posts/The-River-Battles---Italy
+:header: <img src="../posts/assets/The-River-Battles---Italy/media/image1.jpg" alt="thumbnail" />
+Research and details regarding The River Battles   Italy.
+:::
+
 ::: {card} Battle of the Scheldt
 :link: /posts/Battle-of-the-Scheldt
 :header: <img src="../posts/assets/Battle-of-the-Scheldt/media/image1.gif" alt="thumbnail" />

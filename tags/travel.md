@@ -17,4 +17,10 @@ Posts tagged with **Travel**.
 April 10, 2026 - A step-by-step tutorial on building a personal CV website with MyST Markdown and Typst that automatically generates a PDF version of your CV.
 :::
 
+::: {card} Tiny Country of San Marino
+:link: /posts/Tiny-Country-of-San-Marino
+:header: <img src="../posts/assets/Tiny-Country-of-San-Marino/media/image1.jpeg" alt="thumbnail" />
+Research and details regarding Tiny Country of San Marino.
+:::
+
 ::::
