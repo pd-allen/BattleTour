@@ -18,6 +18,12 @@ Posts tagged with **WW2**.
 Research and details regarding The River Battles   Italy.
 :::
 
+::: {card} Breaking the Gothic Line
+:link: /posts/Breaking-the-Gothic-Line
+:header: <img src="../posts/assets/Breaking-the-Gothic-Line/media/image1.png" alt="thumbnail" />
+Research and details regarding Breaking the Gothic Line.
+:::
+
 ::: {card} Battle of the Scheldt
 :link: /posts/Battle-of-the-Scheldt
 :header: <img src="../posts/assets/Battle-of-the-Scheldt/media/image1.gif" alt="thumbnail" />
@@ -31,7 +37,7 @@ Research and details regarding Canadian Liberation March.
 :::
 
 ::: {card} CanadianMemorialsintheNetherlands
-:link: /posts/CanadianMemorialsintheNetherlands
+:link: /posts/Canadian-Memorials-in-the-Netherlands
 :header: <img src="../posts/assets/CanadianMemorialsintheNetherlands/media/image1.png" alt="thumbnail" />
 Research and details regarding CanadianMemorialsintheNetherlands.
 :::
