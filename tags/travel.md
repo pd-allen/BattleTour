@@ -20,7 +20,7 @@ April 10, 2026 - A step-by-step tutorial on building a personal CV website with 
 
 ::: {card} Rimini Ravenna and Bologna
 :link: /posts/Rimini-Ravenna-and-Bologna
-:header: <img src="../posts/assets/Rimini-Ravenna-and-Bologna/media/image1.png" alt="thumbnail" />
+:header: <img src="../posts/assets/Rimini-Ravenna-and-Bologna/media/image1.jpeg" alt="thumbnail" />
 07 May 2026 - Research and details regarding Rimini Ravenna and Bologna.
 :::
 
