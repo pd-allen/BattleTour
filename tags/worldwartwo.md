@@ -3,6 +3,7 @@ title: "World War Two"
 description: Posts about WW2.
 ---
 
+
 # WW2
 
 Posts tagged with **WW2**.
@@ -16,7 +17,6 @@ Posts tagged with **WW2**.
 :header: <img src="../posts/assets/The-River-Battles---Italy/media/image1.jpg" alt="thumbnail" />
 29 Apr 2026 - Research and details regarding The River Battles   Italy.
 :::
-
 
 ::: {card} Breaking the Gothic Line
 :link: /posts/Breaking-the-Gothic-Line
