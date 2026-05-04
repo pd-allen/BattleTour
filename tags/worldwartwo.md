@@ -11,17 +11,22 @@ Posts tagged with **WW2**.
 
 ::::{grid} 1 1 2 2
 
+::: {card} Rimini Ravennna and Bologna
+:link: /posts/Rimini-Ravennna-and-Bologna
+:header: <img src="../posts/assets/Rimini-Ravennna-and-Bologna/media/image1.png" alt="thumbnail" />
+07 May 2026 - Research and details regarding Rimini Ravennna and Bologna.
+:::
 
 ::: {card} The River Battles   Italy
 :link: /posts/The-River-Battles---Italy
 :header: <img src="../posts/assets/The-River-Battles---Italy/media/image1.jpg" alt="thumbnail" />
-Research and details regarding The River Battles   Italy.
+29 Apr 2026 - Research and details regarding The River Battles   Italy.
 :::
 
 ::: {card} Breaking the Gothic Line
 :link: /posts/Breaking-the-Gothic-Line
 :header: <img src="../posts/assets/Breaking-the-Gothic-Line/media/image1.png" alt="thumbnail" />
-Research and details regarding Breaking the Gothic Line.
+22 May 2026 - Research and details regarding Breaking the Gothic Line.
 :::
 
 ::: {card} Battle of the Scheldt
