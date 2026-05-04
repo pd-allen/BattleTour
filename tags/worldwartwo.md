@@ -38,7 +38,7 @@ Research and details regarding Canadian Liberation March.
 
 ::: {card} CanadianMemorialsintheNetherlands
 :link: /posts/Canadian-Memorials-in-the-Netherlands
-:header: <img src="../posts/assets/CanadianMemorialsintheNetherlands/media/image1.png" alt="thumbnail" />
+:header: <img src="../posts/assets/Canadian-Memorials-in-the-Netherlands/media/image1.png" alt="thumbnail" />
 Research and details regarding CanadianMemorialsintheNetherlands.
 :::
 
