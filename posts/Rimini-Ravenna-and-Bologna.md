@@ -1,6 +1,6 @@
-# Rimini Ravennna and Bologna
+# Rimini Ravenna and Bologna
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image1.jpeg"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image1.jpeg"
 style="width:6.5in;height:4.89444in" />
 
 In addition to our battlefield and tiny country tours, we took the
@@ -14,7 +14,7 @@ Rimini has been inhabited from ancient times but was created as a Roman
 city in 268 BC when 6,000 Romans were sent to Rimini to establish a base
 at the mouth of the Marecchia River to expand into the Po Valley.
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image2.png"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image2.png"
 style="width:6.5in;height:3.63125in" />
 
 The beaches of Rimini are a huge attraction these days. The view from
@@ -22,7 +22,7 @@ our hotel shows the beaches being prepared for the upcoming summer
 season. Each hotel has a separate strip of land that is populated with
 beach chairs rentable by the day.
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image3.jpeg"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image3.jpeg"
 style="width:6.5in;height:4.89444in" />
 
 # Rimini Landmarks
@@ -30,7 +30,7 @@ style="width:6.5in;height:4.89444in" />
 An illustration of ancient Rimini, showing the Arch of Augustus, the
 Tiberius Bridge, Roman Coliseum and Forum.
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image4.jpeg"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image4.jpeg"
 style="width:6.5in;height:4.89444in" />
 
 ## Arch of Augustus
@@ -41,7 +41,7 @@ was originally integrated into the walls surrounding Rimini. The walls
 and surrounding buildings were demolished in 1936 to create a
 free-standing monument, the oldest arch in Italy.
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image5.jpeg"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image5.jpeg"
 style="width:6.5in;height:4.89444in" />
 
 The faces of Jupiter and Zeus adorn the outside of the arch.
@@ -52,7 +52,7 @@ city being damaged. Remarkably, the Arch was not damaged. A view of the
 arch when the Allies captured the city. A disabled Calgary Regiment tank
 in front of the Arch.
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image6.png"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image6.png"
 style="width:5.875in;height:8.33333in" />
 
 During the German retreat, the order was given to destroy the Arch. The
@@ -92,7 +92,7 @@ Another ancient landmark of Rimini is the Tiberius Bridge, one of the
 best-preserved Roman bridges in the world completed in 21 AD, with 5
 semicircular arches spanning 70 metres.
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image7.jpeg"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image7.jpeg"
 style="width:6.5in;height:4.89444in" />
 
 Again, it was a miracle the bridge survived the war. The multiple
@@ -121,24 +121,24 @@ named the Square of the Three Martyrs for the three Italian partisans
 who were executed in August 1944, just before the liberation of the
 city.
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image8.jpeg"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image8.jpeg"
 style="width:6.5in;height:3.32778in" />
 
 Julius Caeser made a famous speech after crossing the Rubicon and a
 statue of him adorns the square.
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image9.jpeg"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image9.jpeg"
 style="width:6.5in;height:4.89444in" />
 
 The clock tower dates from 1547 and features a second dial that tracks
 the zodiac signs and the phases of the moon.
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image10.jpeg"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image10.jpeg"
 style="width:6.5in;height:8.63264in" />
 
 Clock tower in WW2.
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image11.jpeg"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image11.jpeg"
 style="width:6.5in;height:3.53472in" />
 
 ## Malatestian Temple
@@ -150,7 +150,7 @@ Today, the building serves as the **Cathedral of Rimini** (dedicated to
 St. Columba). It suffered significant damage during WWII bombings but
 was meticulously restored in the 1950s.
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image12.jpeg"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image12.jpeg"
 style="width:6.5in;height:4.89444in" />
 
 The temple was constructed at the direction of Sigismondo Malatesta in
@@ -164,12 +164,12 @@ sculptures of Elephants, Sigismondo’s personal symbol. His tag line was
 bit rusty: “The Indian Elephant does not fear mosquitoes”. This was a
 shot at the Pope, who later had Sigismondo excommunicated.
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image13.jpeg"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image13.jpeg"
 style="width:6.5in;height:4.89444in" />
 
 The I/S symbol is everywhere.
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image14.jpeg"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image14.jpeg"
 style="width:6.5in;height:4.89444in" />
 
 ## Castel Sismondo
@@ -182,22 +182,22 @@ completely reimagined. It now serves as a primary wing of the Federico
 Fellini Museum, dedicated to the legendary film director who was born in
 Rimini.
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image15.jpeg"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image15.jpeg"
 style="width:6.5in;height:4.89444in" />
 
 Since 1857, the castle was used as a prison. During WW2, bombing heavily
 damaged the castle and one bomb destroyed the front gate allowing
 prisoners to escape. Rachel didn’t see any while inspecting the
 renovated door.
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image16.jpeg"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image16.jpeg"
 style="width:6.5in;height:8.63264in" />
 
 The building across the street was aslo heavily damaged.
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image17.jpeg"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image17.jpeg"
 style="width:6.5in;height:2.98889in" />
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image18.jpeg"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image18.jpeg"
 style="width:6.5in;height:8.63264in" />
 
 ### Domus del Chirurgo
@@ -207,7 +207,7 @@ archaeological site in Rimini, often described as a "little Pompeii"
 because of its remarkable state of preservation. A purpose-built
 structure now protects the discovery.
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image19.jpeg"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image19.jpeg"
 style="width:6.5in;height:4.89444in" />
 
 Discovered in 1989 during renovations to the Piazza Ferrari, this Roman
@@ -217,14 +217,14 @@ building, collapsed the roof and buried rooms under the rubble. The site
 subsequently became a garden, an orchard then an open space, so no heavy
 construction destroyed the Roman ruins.
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image20.jpeg"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image20.jpeg"
 style="width:6.5in;height:8.63264in" />
 
 Along with well preserved mosaics, a 150-piece surgical kit was also
 discovered. Remarkably precise tools were found during the archeological
 dig.
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image21.jpeg"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image21.jpeg"
 style="width:6.5in;height:2.70903in" />
 
 ## **Murales del borgo San Giuliano**
@@ -237,8 +237,8 @@ Once a poor, marginalized neighborhood, Borgo San Giuliano has
 transformed into one of the most picturesque and "Instagrammable" areas
 of the city thanks to these artworks.
 
-## <img src="assets/Rimini-Ravennna-and-Bologna/media/image22.jpeg"
-style="width:6.5in;height:3.65556in" /><img src="assets/Rimini-Ravennna-and-Bologna/media/image23.jpeg"
+## <img src="assets/Rimini-Ravenna-and-Bologna/media/image22.jpeg"
+style="width:6.5in;height:3.65556in" /><img src="assets/Rimini-Ravenna-and-Bologna/media/image23.jpeg"
 style="width:6.5in;height:3.65556in" />
 
 ## Roman Amphitheatre
@@ -249,7 +249,7 @@ likeness embedded in the masonry. The Amphitheatre of holding
 10,000–12,000 spectators, and today only fragments survive due to
 medieval reuse and WWII bombing.
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image24.png"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image24.png"
 style="width:6.5in;height:3.17917in" />
 
 Constructed in brick with a classic elliptical plan, similar in
@@ -265,7 +265,7 @@ proportions to the Colosseum.
 
 - Exterior portico: 60 arches
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image25.jpeg"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image25.jpeg"
 style="width:6.5in;height:4.89444in" />
 
 This scale made it one of the largest amphitheatres in northern Italy
@@ -275,18 +275,18 @@ decline of the Roman Empire used as a quarry for other buildings. It was
 rediscovered in the 1840’s but severe damage caused by WW2 bombing mean
 only fragments remain today.
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image26.jpeg"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image26.jpeg"
 style="width:6.5in;height:4.89444in" />
 
 Translation of a plaque outside the building.
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image27.png"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image27.png"
 style="width:6.27292in;height:9in" />
 
 And as always, we had a great lunch at La Mi Mama, recommended by Maggy,
 Rachel’s Italian buddy.
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image28.jpeg"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image28.jpeg"
 style="width:6.5in;height:8.63264in" />
 
 ## Ravenna
@@ -303,13 +303,13 @@ Wealth and artisans flowed into Ravenna, laying the foundations for the
 early Christian mosaic traditions. The Mausoleum of Galla Placidia was
 built around 425 AD
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image29.jpeg"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image29.jpeg"
 style="width:6.5in;height:8.63264in" />
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image30.jpeg"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image30.jpeg"
 style="width:6.5in;height:8.63264in" />
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image31.jpeg"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image31.jpeg"
 style="width:6.5in;height:8.63264in" />
 
 In 493 AD Ravenna became the capital of the Ostrogoths for 50 years and
@@ -317,24 +317,24 @@ the Bascillica of Sant ’Apollinare Nuovo was built, continuing with the
 intricate mosaic designs. The Ostrogoths were Gothic people originally
 from the Eastern Germany region.
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image32.jpeg"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image32.jpeg"
 style="width:6.5in;height:8.63264in" />
 
 The Basilica has a procession of martyrs marching toward Jesus on one
 wall, and a procession of virgins marching toward Mary on the other
 wall.
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image33.jpeg"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image33.jpeg"
 style="width:6.5in;height:4.89444in" />
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image34.jpeg"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image34.jpeg"
 style="width:6.5in;height:4.89444in" />
 
 The ceiling is also elaborately tiled. Sant ‘Apollinare was bombed
 during WW2, the building structure was damaged, but the mosaics remained
 largely intact.
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image35.jpeg"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image35.jpeg"
 style="width:6.5in;height:4.89444in" />
 
 The Byzantines captured Ravenna in 540 AD and made it the capital of
@@ -343,26 +343,26 @@ who spoke Greek.
 
 San Vitale from 547 AD was the most important church in the West.
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image36.jpeg"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image36.jpeg"
 style="width:6.5in;height:4.89444in" />
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image37.jpeg"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image37.jpeg"
 style="width:6.5in;height:4.89444in" />
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image38.jpeg"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image38.jpeg"
 style="width:6.5in;height:4.89444in" />
 
 Unbelievably intricate work in the dome.
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image39.jpeg"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image39.jpeg"
 style="width:6.5in;height:4.89444in" />
 
 Heavily figured African marble adorns the pillars.
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image40.jpeg"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image40.jpeg"
 style="width:6.5in;height:8.63264in" />Mosaics also cover the floors.
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image41.jpeg"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image41.jpeg"
 style="width:6.5in;height:8.63264in" />
 
 The Lombards conquered Ravenna and most of Italy in 751 AD. Ravenna
@@ -390,12 +390,12 @@ in Europe. The iconic towers of Asinelli and Garisenda built starting in
 has a 4-degree lean equivalent to the leaning tower of Pisa due to
 unstable ground under the tower. The lean is accelerating so work is
 underway to stabilize the tower.
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image42.jpeg"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image42.jpeg"
 style="width:6.5in;height:8.63264in" />
 
 The lean is more evident from this angle.
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image43.jpeg"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image43.jpeg"
 style="width:6.5in;height:8.63264in" />
 
 ## Basilica di San Petronio
@@ -405,7 +405,7 @@ Basilica, begun in 1390 as a massive civic church intended to surpass
 St. Peter’s in Rome, but never completed due to political, financial,
 and architectural obstacles.
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image44.jpeg"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image44.jpeg"
 style="width:6.5in;height:4.89444in" />
 
 The Basilica design is Italian Gothic with a Capacity of approximately
@@ -415,7 +415,7 @@ The unfinished façade is one of Bologna’s most recognizable features.
 Only the lower marble portion was completed; the upper half remains
 brick.
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image45.jpeg"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image45.jpeg"
 style="width:6.5in;height:8.63264in" />
 
 Inside the left aisle is a 1655 astronomical sundial created by Gian
@@ -423,23 +423,23 @@ Domenico Cassini. A small hole in the vault projects sunlight onto a
 67‑meter meridian line that was used to measure the solar year with
 extraordinary precision.
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image46.jpeg"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image46.jpeg"
 style="width:6.5in;height:4.89444in" />
 
 The hole projects a spot on the meridian line. The shape of the spot
 depends on the time of year.
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image47.jpeg"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image47.jpeg"
 style="width:6.5in;height:8.63264in" />
 
 The spot tracing the meridian line.
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image48.png"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image48.png"
 style="width:5.3674in;height:5.3674in" />
 
 The Basilica has 22 side chapels in its massive interior.
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image49.jpeg"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image49.jpeg"
 style="width:6.5in;height:8.63264in" />Bologna was heavily bombed during
 WW2 and the Basilica suffered some damage. The precious relics were
 protected and the massive Gothic structure meant it survived more intact
@@ -456,24 +456,24 @@ before 1501), and early printed books.
 
 The library sits inside the Archiginnasio Palace, one of Bologna’s most
 beautiful Renaissance buildings.
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image50.jpeg"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image50.jpeg"
 style="width:6.5in;height:8.63264in" />It survived WWII bombing, though
 part of the building was destroyed in 1944 and later rebuilt. Elaborate
 coats of arms over the ages adorn the library walls.
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image51.jpeg"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image51.jpeg"
 style="width:6.5in;height:8.63264in" />
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image52.jpeg"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image52.jpeg"
 style="width:6.5in;height:8.63264in" />
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image53.jpeg"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image53.jpeg"
 style="width:6.5in;height:8.63264in" />
 
 We came upon a cute market with very high-end products. Lots of lookers
 but not too many buyers.
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image54.jpeg"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image54.jpeg"
 style="width:6.5in;height:4.89444in" />
 
 # Santo Stefano Complex
@@ -485,7 +485,7 @@ labyrinth. It is the city’s most unusual religious site: a fusion of
 multiple churches, courtyards, cloisters, and monastic structures built
 across more than 1,500 years.
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image55.png"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image55.png"
 style="width:6.5in;height:3.65625in" />
 
 Although popularly called the Seven Churches, the number has changed
@@ -493,12 +493,12 @@ over time. Historically seven, today four main churches remain, but the
 name persists because of the symbolic and architectural unity of the
 site.
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image56.png"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image56.png"
 style="width:6.5in;height:3.65833in" />
 
 The walking map shows how the churches are linked together.
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image57.png"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image57.png"
 style="width:6.5in;height:7.86597in" />
 
 The complex began in the **5th century**, when **Bishop Petronius**
@@ -513,7 +513,7 @@ buildings.
 
 ## The main components of the Santo Stefano complex
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image58.png"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image58.png"
 style="width:6.5in;height:4.52917in" />
 
 Below is an overview of the principal structures within the collection:
@@ -549,20 +549,20 @@ Below is an overview of the principal structures within the collection:
 
 **Chiesa del Crocifisso (Church of the Crucifix)**
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image59.jpeg"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image59.jpeg"
 style="width:6.5in;height:4.89444in" />
 
 **Chiesa del Santo Sepolcro (Church of the Holy Sepulchre)**
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image60.jpeg"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image60.jpeg"
 style="width:6.5in;height:6.05069in" />
 
 Basilica of San Stefano
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image61.jpeg"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image61.jpeg"
 style="width:6.5in;height:8.63264in" />
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image62.jpeg"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image62.jpeg"
 style="width:6.5in;height:8.63264in" />
 
 # Final Thoughts
@@ -574,7 +574,7 @@ fish, is very thin so it was an adventure digging out the meat from the
 many, many bones. I enjoyed a lot of seafood in many forms, but this was
 the most unique.
 
-<img src="assets/Rimini-Ravennna-and-Bologna/media/image63.jpeg"
+<img src="assets/Rimini-Ravenna-and-Bologna/media/image63.jpeg"
 style="width:6.5in;height:8.66667in" />
 
 It was a great trip to Italy. The food was wonderful everywhere we ate
